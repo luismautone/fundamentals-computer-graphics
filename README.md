@@ -11,6 +11,6 @@ The provided directories in the repository refer to a specific course topic. In 
 
 ## Rendering
 
-### [Raytracing Homework](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/readme.md)
+### [Raytracing Homework](https://github.com/luismautone/fundamentals-computer-graphics/tree/main/raytracing)
 
 ![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/out/lowres/06_metal_720_256.jpg)
