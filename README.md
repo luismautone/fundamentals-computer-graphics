@@ -9,8 +9,8 @@ The provided directories in the repository refer to a specific course topic. In 
   <li>a "readme.md" file describing the features to implement</li>
 </ul>
 
-## Rendering
+## 1. [Raytracing Homework](https://github.com/luismautone/fundamentals-computer-graphics/tree/main/raytracing)
 
-### [Raytracing Homework](https://github.com/luismautone/fundamentals-computer-graphics/tree/main/raytracing)
+Main Rendering Loop, Shading functions, Materials (polished dielectrics, matte surfaces, polished mirrors, polished metals, rough metals, rough plastic, refraction, cel shading)
 
 ![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/out/lowres/06_metal_720_256.jpg)
