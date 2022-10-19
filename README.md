@@ -14,3 +14,5 @@ The provided directories in the repository refer to a specific course topic. In 
 Main Rendering Loop, Shading functions, Materials (polished dielectrics, matte surfaces, polished mirrors, polished metals, rough metals, rough plastic, refraction, cel shading)
 
 ![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/out/lowres/06_metal_720_256.jpg)
+
+## 2. [Path Tracing Homework](https://github.com/luismautone/fundamentals-computer-graphics/tree/main/path%20tracing)
