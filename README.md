@@ -9,18 +9,9 @@ The provided directories in the repository refer to a specific course topic. In 
   <li>a "readme.md" file describing the features to implement</li>
 </ul>
 
-## Summary
+## Rendering
 
-### Raytracing
+### [Raytracing Homework](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/readme.md)
 
-[Homework description](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/readme.md)
-
-Rendered scenes
-
-| Image      | Shading |
-| ----------- | ----------- |
-| ![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/out/lowres/0x_color_720_9.jpg)      | Color       |
-| ![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/out/lowres/0x_normal_720_9.jpg)   | Normal        |
-| ![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/out/lowres/0x_texcoord_720_9.jpg)   | Texture Coordinate as color      |
-| ![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/out/lowres/0x_eyelight_720_9.jpg)   | Diffuse Lighting        |
-| Paragraph   | Diffuse Lighting        |
+| ![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/out/lowres/0x_color_720_9.jpg) | ![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/out/lowres/0x_normal_720_9.jpg) | ![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/out/lowres/0x_texcoord_720_9.jpg) |
+| ![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/out/lowres/0x_eyelight_720_9.jpg)   | ![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/out/lowres/01_cornellbox_512_256.jpg)        | 
