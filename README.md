@@ -13,7 +13,7 @@ The provided directories in the repository refer to a specific course topic. In 
 
 ### [Raytracing Homework](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/readme.md)
 
-| Syntax      | Description | Descr.      |
+|     |  |       |
 | ----------- | ----------- | ----------- |
 | ![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/out/lowres/0x_color_720_9.jpg) | ![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/out/lowres/0x_normal_720_9.jpg) | ![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/out/lowres/0x_texcoord_720_9.jpg) |
 | ![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/out/lowres/0x_eyelight_720_9.jpg)   | ![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/out/lowres/01_cornellbox_512_256.jpg)        | 
