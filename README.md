@@ -16,3 +16,13 @@ Main rendering loop, shading functions, materials
 ![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/out/lowres/06_metal_720_256.jpg)
 
 ## 2. [Path Tracing Homework](https://github.com/luismautone/fundamentals-computer-graphics/tree/main/path%20tracing)
+
+Camera sampling, Naive Path tracing, BRDF sampling, Path tracing, Denoising
+
+![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/path%20tracing/out/highres/19_bistroexterior_1280_1024.jpg)
+
+## 3. [Volumetric Path Tracing Homework](https://github.com/luismautone/fundamentals-computer-graphics/tree/main/volumetric)
+
+Volumetric Path tracing, Delta tracking
+
+![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/volumetric/out/highres/07_volume_delta2_1280_1024.jpg)
