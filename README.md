@@ -14,6 +14,3 @@ The provided directories in the repository refer to a specific course topic. In 
 ### [Raytracing Homework](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/readme.md)
 
 ![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/out/lowres/06_metal_720_256.jpg)
-![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/out/lowres/10_hair_720_256.jpg)
-![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/out/lowres/13_glass_refraction_720_256.jpg)
-![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/out/lowres/12_ecosys_720_256.jpg)
