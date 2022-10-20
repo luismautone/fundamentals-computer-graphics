@@ -16,3 +16,13 @@ Main rendering loop, shading functions, materials
 ![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/raytracing/out/lowres/06_metal_720_256.jpg)
 
 ## 2. [Path Tracing Homework](https://github.com/luismautone/fundamentals-computer-graphics/tree/main/path%20tracing)
+
+Monte Carlo integration, BSDF, Multiple Importance Sampling
+
+![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/path%20tracing/out/highres/19_bistroexterior_1280_1024.jpg)
+
+## 3. [Volumetric Path Tracing Homework](https://github.com/luismautone/fundamentals-computer-graphics/tree/main/volumetric)
+
+BSSRDF, Volumetric Path tracing, Delta tracking for heterogeneous volumes
+
+![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/volumetric/out/highres/07_volume_delta2_1280_1024.jpg)
