@@ -23,6 +23,6 @@ Monte Carlo integration, BSDF, Multiple Importance Sampling
 
 ## 3. [Volumetric Path Tracing Homework](https://github.com/luismautone/fundamentals-computer-graphics/tree/main/volumetric)
 
-Volumetric Path tracing, Delta tracking
+BSSRDF, Volumetric Path tracing, Delta tracking for heterogeneous volumes
 
 ![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/volumetric/out/highres/07_volume_delta2_1280_1024.jpg)
