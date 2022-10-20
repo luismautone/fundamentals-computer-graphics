@@ -17,7 +17,7 @@ Main rendering loop, shading functions, materials
 
 ## 2. [Path Tracing Homework](https://github.com/luismautone/fundamentals-computer-graphics/tree/main/path%20tracing)
 
-Camera sampling, Naive Path tracing, BRDF sampling, Path tracing, Denoising
+Naive Path tracing, BRDF sampling, Path tracing, Denoising
 
 ![](https://github.com/luismautone/fundamentals-computer-graphics/blob/main/path%20tracing/out/highres/19_bistroexterior_1280_1024.jpg)
 
